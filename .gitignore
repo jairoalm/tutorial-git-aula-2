@@ -1,1 +1,4 @@
 me_ignore.txt
+*.jar
+!arquivo_3.jar
+pasta_teste/
